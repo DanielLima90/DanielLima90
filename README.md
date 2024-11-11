@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Daniel
-- 👀 I’m interested in programming mobile applications.
-- 🌱 I’m currently learning Web and Mobile Development
-- 💞️ I’m looking to collaborate on...
-- 📫 How to reach me ...
+- 👀 I’m interested in java programming
+- 🌱 I’m currently learning CI/CD tools
 
 <!---
 DanielLima90/DanielLima90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
